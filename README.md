@@ -1,3 +1,4 @@
+# Nothing was changed, but now building manually is not required. See Releases.
 # Introduction
 
 An open-source implementation of an AirPlay mirroring server for the Raspberry Pi.
